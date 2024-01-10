@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const SignIn = () => {
   return (
     <div className="p-4 max-w-lg mx-auto">
-      <h1 className="text-3xl text-center font-semibold my-7">Sign Ip</h1>
+      <h1 className="text-3xl text-center font-semibold my-7">Sign In</h1>
       <form className="flex flex-col gap-4">
         <input
           type="email"
